@@ -1,0 +1,11 @@
+C:\Users\User\source\repos\id cap that\id cap that\bin\Debug\id cap that.exe.config
+C:\Users\User\source\repos\id cap that\id cap that\bin\Debug\id cap that.exe
+C:\Users\User\source\repos\id cap that\id cap that\bin\Debug\id cap that.pdb
+C:\Users\User\source\repos\id cap that\id cap that\obj\Debug\id cap that.csprojAssemblyReference.cache
+C:\Users\User\source\repos\id cap that\id cap that\obj\Debug\id_cap_that.Properties.Resources.resources
+C:\Users\User\source\repos\id cap that\id cap that\obj\Debug\id cap that.csproj.GenerateResource.cache
+C:\Users\User\source\repos\id cap that\id cap that\obj\Debug\id cap that.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\id cap that\id cap that\obj\Debug\id cap that.exe
+C:\Users\User\source\repos\id cap that\id cap that\obj\Debug\id cap that.pdb
+C:\Users\User\source\repos\id cap that\id cap that\obj\Debug\id_cap_that.shit.resources
+C:\Users\User\source\repos\id cap that\id cap that\obj\Debug\id_cap_that.collorpalette.resources
